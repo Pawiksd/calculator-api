@@ -10,7 +10,9 @@ PHP 7.3
 
 ## Setup
 Run following commands:
+
 composer install
+
 symfony server:start
 
 ### Visit
